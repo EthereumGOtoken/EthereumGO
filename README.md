@@ -15,4 +15,4 @@ the EthereumGO smart contract token on Ethereum platform.It's an ERC20 Token whi
 * **Distribution**: Free Airdrop
 * **Contract Address**: 0x40607c8bE5e35502b319b598350f4dA745fB46Af
 ## Resource
-**[Website](https://ethereumgo.net)** | **[Whitepaper](https://ethereumgo.net/Whitepaper.pdf)** | **[Twitter](https://twitter.com/ethereumgo_james)**  | **[Bitcointalk](https://bitcointalk.org)** | **[Slack](https://ethereumgocommunity.slack.com)** | **[Telegram](https://t.me/ethereumgo)**
+**[Website](https://ethereumgo.net)** | **[Whitepaper](https://ethereumgo.net/Whitepaper.pdf)** | **[Twitter](https://twitter.com/ETHGO_james)**  | **[Bitcointalk](https://bitcointalk.org)** | **[Slack](https://ethereumgocommunity.slack.com)** | **[Telegram](https://t.me/ethereumgo)**
